@@ -9,13 +9,6 @@
         compatible = "zmk,keymap";
 
         default_layer {
-// --------------------------------------------------------------------------------------------------------------------------
-// |   TAB   |    Q    |    W    |    F    |    P    |    B    |    J    |    L    |    U    |    Y    |   SEMI  |   BSPC   |
-// |  LCTRL  |    A    |    R    |    S    |    T    |    G    |    M    |    N    |    E    |    I    |    O    |   APOS   |
-// |  LSHFT  |    Z    |    X    |    C    |    D    |    V    |    K    |    H    |  COMMA  |   DOT   |   FSLH  |   GRAVE  |
-// |         |  LCTRL  |  LGUI   |   LALT  |  1/RET  |         | 1/SPACE |         |  MINUS  |  EQUAL  |   BSLH  |   
-
-// NO YES YES YES YES NO | YES NO YES YES YES NO
             display-name = "Bass"
 
             bindings = <
@@ -46,3 +39,11 @@
 
     };
 };
+
+// --------------------------------------------------------------------------------------------------------------------------
+// |   TAB   |    Q    |    W    |    F    |    P    |    B    |    J    |    L    |    U    |    Y    |   SEMI  |   BSPC   |
+// |  LCTRL  |    A    |    R    |    S    |    T    |    G    |    M    |    N    |    E    |    I    |    O    |   APOS   |
+// |  LSHFT  |    Z    |    X    |    C    |    D    |    V    |    K    |    H    |  COMMA  |   DOT   |   FSLH  |   GRAVE  |
+// |         |  LCTRL  |  LGUI   |   LALT  |  1/RET  |         | 1/SPACE |         |  MINUS  |  EQUAL  |   BSLH  |   
+
+// NO YES YES YES YES NO | YES NO YES YES YES NO
