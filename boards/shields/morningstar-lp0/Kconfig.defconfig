@@ -1,0 +1,7 @@
+if SHIELD_MORNINGSTAR-LP0
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "Morningstar LP0"
+
+endif
